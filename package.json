@@ -14,8 +14,6 @@
     "ngx-dragula"
   ],
   "files": [
-    "dist",
-    "README.md"
   ],
   "module": "fesm2015/ng2-dragula.mjs",
   "es2020": "fesm2020/ng2-dragula.mjs",
