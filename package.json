@@ -1,6 +1,6 @@
 {
   "name": "ng2-dragula-angular13",
-  "version": "2.3.5",
+  "version": "2.3.6",
   "private": false,
   "keywords": [
     "angular",
@@ -13,7 +13,9 @@
     "ng2-dragula",
     "ngx-dragula"
   ],
-  "files": ["dist/ng2-dragula"],
+  "files": [
+    "dist/ng2-dragula"
+  ],
   "scripts": {
     "ng": "nx",
     "start": "ng serve",
