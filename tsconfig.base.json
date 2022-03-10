@@ -2,7 +2,7 @@
   "compileOnSave": false,
   "compilerOptions": {
     "rootDir": ".",
-    "outDir": "./dist/ng2-dragula",
+    "outDir": "./dist",
     "sourceMap": true,
     "strict": true,
     "noImplicitReturns": false,

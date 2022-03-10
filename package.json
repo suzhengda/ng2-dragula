@@ -13,20 +13,16 @@
     "ng2-dragula",
     "ngx-dragula"
   ],
-  "main": "./dist/ng2-dragula/bundles/ng2-dragula.umd.js",
-  "module": "./dist/ng2-dragula/fesm5/ng2-dragula.js",
-  "es2015": "./dist/ng2-dragula/fesm2015/ng2-dragula.js",
-  "esm5": "./dist/ng2-dragula/esm5/ng2-dragula.js",
-  "esm2015": "./dist/ng2-dragula/esm2015/ng2-dragula.js",
-  "fesm5": "./dist/ng2-dragula/fesm5/ng2-dragula.js",
-  "fesm2015": "./dist/ng2-dragula/fesm2015/ng2-dragula.js",
-  "typings": "./dist/ng2-dragula/ng2-dragula.d.ts",
-  "metadata": "./dist/ng2-dragula/ng2-dragula.metadata.json",
-  "sideEffects": false,
   "files": [
-    "dist/ng2-dragula",
-    "dist/ng2-dragula/README.md"
+    "dist",
+    "README.md"
   ],
+  "module": "fesm2015/ng2-dragula.mjs",
+  "es2020": "fesm2020/ng2-dragula.mjs",
+  "esm2020": "esm2020/ng2-dragula.mjs",
+  "fesm2020": "fesm2020/ng2-dragula.mjs",
+  "fesm2015": "fesm2015/ng2-dragula.mjs",
+  "typings": "ng2-dragula.d.ts",
   "scripts": {
     "ng": "nx",
     "start": "ng serve",
