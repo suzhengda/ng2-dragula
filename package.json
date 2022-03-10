@@ -1,6 +1,6 @@
 {
   "name": "ng2-dragula-angular13",
-  "version": "2.3.8",
+  "version": "2.3.9",
   "private": false,
   "keywords": [
     "angular",
@@ -36,8 +36,7 @@
     "release:minor": "npm run build && npm version minor && git push origin && git push origin --tags && npm publish --registry https://registry.npmjs.org",
     "release:patch": "npm run build && npm version patch && git push origin && git push origin --tags && npm publish --registry https://registry.npmjs.org"
   },
-  "dependencies": {
-  },
+  "dependencies": {},
   "devDependencies": {
     "@angular/animations": "~13.2.0",
     "@angular/common": "~13.2.0",
