@@ -13,13 +13,7 @@
     "ng2-dragula",
     "ngx-dragula"
   ],
-  "files": [],
-  "module": "fesm2015/ng2-dragula.mjs",
-  "es2020": "fesm2020/ng2-dragula.mjs",
-  "esm2020": "esm2020/ng2-dragula.mjs",
-  "fesm2020": "fesm2020/ng2-dragula.mjs",
-  "fesm2015": "fesm2015/ng2-dragula.mjs",
-  "typings": "ng2-dragula.d.ts",
+  "files": ["dist/ng2-dragula"],
   "scripts": {
     "ng": "nx",
     "start": "ng serve",
