@@ -16,6 +16,12 @@
   "files": [
     "dist"
   ],
+  "module": "dist/fesm2015/ng2-dragula.mjs",
+  "es2020": "dist/fesm2020/ng2-dragula.mjs",
+  "esm2020": "dist/esm2020/ng2-dragula.mjs",
+  "fesm2020": "dist/fesm2020/ng2-dragula.mjs",
+  "fesm2015": "dist/fesm2015/ng2-dragula.mjs",
+  "typings": "dist/ng2-dragula.d.ts",
   "scripts": {
     "ng": "nx",
     "start": "ng serve",
