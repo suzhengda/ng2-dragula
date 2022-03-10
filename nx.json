@@ -40,5 +40,5 @@
   "cli": {
     "defaultCollection": "@nrwl/angular"
   },
-  "defaultProject": "demo"
+  "defaultProject": "ng2-dragula"
 }

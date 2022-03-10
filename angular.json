@@ -3,7 +3,7 @@
   "version": 2,
   "newProjectRoot": "projects",
   "projects": {
-    "demo": "apps/demo",
-    "ng2-dragula": "libs/ng2-dragula"
+    "ng2-dragula": "libs/ng2-dragula",
+    "demo": "apps/demo"
   }
 }
