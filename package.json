@@ -14,7 +14,7 @@
     "ngx-dragula"
   ],
   "files": [
-    "dist/ng2-dragula"
+    "dist"
   ],
   "scripts": {
     "ng": "nx",
